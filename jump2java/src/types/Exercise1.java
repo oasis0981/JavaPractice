@@ -1,3 +1,5 @@
+package types;
+
 import java.io.OutputStream;
 import java.util.*;
 
@@ -57,7 +59,7 @@ public class Exercise1 {
 }
 
 // 10. 매직넘버 제거하기
-class exercise2 {
+class Exercise2 {
     enum CoffeeType { // 열거형은 메소드 안에 선언할 수 없음
         AMERICANO,
         ICE_AMERICANO,
